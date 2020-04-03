@@ -1,0 +1,6 @@
+三极管：TO-92_Wide
+二极管1N4148：D_DO-35_SOD27_P7.62mm_Horizontal
+二极管1N4001：D_DO-41_SOD81_P10.16mm_Horizontal
+电解电容：CP_Radial_Tantal_D5.0mm_P5.00mm
+电解电容470uF：CP_Radial_Tantal_D10.5mm_P5.00mm
+电阻：R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
