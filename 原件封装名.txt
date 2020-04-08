@@ -4,3 +4,4 @@
 电解电容：CP_Radial_Tantal_D5.0mm_P5.00mm
 电解电容470uF：CP_Radial_Tantal_D10.5mm_P5.00mm
 电阻：R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+sdffsf
